@@ -10,7 +10,7 @@ As the dataset is privileged information of the company, it cannot be shared in 
 
 If any information is needed regarding the project, please mail me @ 98anmolm@gmail.com
 
-The project is a team effort done in a team of 2 people under the guidance of GM- IT Department @ JK Tyres and Industries 
+The project is a team effort done in a team of 2 people under the guidance of General Manager- IT Department @ JK Tyres and Industries 
 
 Project Description: 
 
