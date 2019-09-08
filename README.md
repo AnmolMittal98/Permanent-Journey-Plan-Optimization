@@ -16,6 +16,6 @@ Project Description:
 
 We aim to boost the efficiency of a sales representative working in a district area in India. 
 
-We use the dataset to study the performance of various dealers under the sales representative's domain, and then using analysis we program an algorithm to produce an optimized way of visiting several dealers in a month in order to boost the efficiency of those dealers sales per month and at the same time concentrate on the less performing one. 
+We use the dataset to study the performance of various dealers under the sales representative's domain, and then using the analysis we program an algorithm to produce an optimized way of visiting several dealers in a month in order to boost the efficiency of those dealers that is sales per month and at the same time concentrate on the less performing one. The algorithm works upon with dataset of 3 months prior to the month in concern. 
 
-This project was tough to develop, due to the immense number of performance cases which can result in the real world. And to incorporate all of these cases in the developed system. 
+This project was tough to develop, due to the immense number of performance cases which can result in the real world. And to incorporate all of these cases in the developed system. Also, factors like seasonal sales, market economics and competition from other companies has not been added to the model until now. 
